@@ -66,6 +66,7 @@ To run the app locally:
 2. Install dependencies via npm: `npm install`
 3. Configure your MongoDB connection string in `.env` 
 4. Start the server: `npm run start`
+5. Access the routes via Postman
 
 
 
